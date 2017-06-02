@@ -25,6 +25,8 @@ L'application devra répondre à l'ensemble des besoins soulevés par le chef de
   
     - Un exemple d'IHM de logiciel
     - Et des liens utiles concernant le langage C#
+   
+  Le chemin pour trouver l'executable de l'application : WinBank66/WinBank66/bin/Release/WinBank66.exe
     
 
     
