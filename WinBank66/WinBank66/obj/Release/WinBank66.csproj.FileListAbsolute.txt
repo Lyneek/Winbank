@@ -1,0 +1,11 @@
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\bin\Release\WinBank66.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\bin\Release\WinBank66.exe
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\bin\Release\WinBank66.pdb
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Release\WinBank66.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Release\WinBank66.FrmMain.resources
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Release\WinBank66.ModifierClient.resources
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Release\WinBank66.ModifierCompte.resources
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Release\WinBank66.Properties.Resources.resources
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Release\WinBank66.csproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Release\WinBank66.exe
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Release\WinBank66.pdb

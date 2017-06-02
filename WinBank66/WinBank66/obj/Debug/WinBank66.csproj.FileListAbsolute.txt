@@ -1,0 +1,32 @@
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\03 - WinBank66 IHM\WinBank66\WinBank66\bin\Debug\WinBank66.exe.config
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\03 - WinBank66 IHM\WinBank66\WinBank66\bin\Debug\WinBank66.exe
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\03 - WinBank66 IHM\WinBank66\WinBank66\bin\Debug\WinBank66.pdb
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\03 - WinBank66 IHM\WinBank66\WinBank66\obj\Debug\WinBank66.csprojResolveAssemblyReference.cache
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\03 - WinBank66 IHM\WinBank66\WinBank66\obj\Debug\WinBank66.FrmMain.resources
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\03 - WinBank66 IHM\WinBank66\WinBank66\obj\Debug\WinBank66.Properties.Resources.resources
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\03 - WinBank66 IHM\WinBank66\WinBank66\obj\Debug\WinBank66.csproj.GenerateResource.Cache
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\03 - WinBank66 IHM\WinBank66\WinBank66\obj\Debug\WinBank66.exe
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\03 - WinBank66 IHM\WinBank66\WinBank66\obj\Debug\WinBank66.pdb
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\04 - WinBank66 Class Attribut Methode\WinBank66\WinBank66\bin\Debug\WinBank66.exe.config
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\04 - WinBank66 Class Attribut Methode\WinBank66\WinBank66\obj\Debug\WinBank66.exe
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\04 - WinBank66 Class Attribut Methode\WinBank66\WinBank66\obj\Debug\WinBank66.pdb
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\04 - WinBank66 Class Attribut Methode\WinBank66\WinBank66\bin\Debug\WinBank66.exe
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\04 - WinBank66 Class Attribut Methode\WinBank66\WinBank66\bin\Debug\WinBank66.pdb
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\04 - WinBank66 Class Attribut Methode\WinBank66\WinBank66\obj\Debug\WinBank66.csprojResolveAssemblyReference.cache
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\04 - WinBank66 Class Attribut Methode\WinBank66\WinBank66\obj\Debug\WinBank66.FrmMain.resources
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\04 - WinBank66 Class Attribut Methode\WinBank66\WinBank66\obj\Debug\WinBank66.Properties.Resources.resources
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\04 - WinBank66 Class Attribut Methode\WinBank66\WinBank66\obj\Debug\WinBank66.csproj.GenerateResource.Cache
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\05 - WinBank66 Héritage\WinBank66\WinBank66\bin\Debug\WinBank66.exe.config
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\05 - WinBank66 Héritage\WinBank66\WinBank66\obj\Debug\WinBank66.exe
+D:\Thierry\_Lycée\2013 - 2014\SIO1 SLAM2 POO\05 - WinBank66 Héritage\WinBank66\WinBank66\obj\Debug\WinBank66.pdb
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\bin\Debug\WinBank66.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Debug\WinBank66.exe
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Debug\WinBank66.pdb
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Debug\WinBank66.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Debug\WinBank66.FrmMain.resources
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Debug\WinBank66.Properties.Resources.resources
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Debug\WinBank66.csproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\bin\Debug\WinBank66.exe
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\bin\Debug\WinBank66.pdb
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Debug\WinBank66.ModifierClient.resources
+C:\Users\Lucas\Documents\Visual Studio 2012\Projects\WinBank66\WinBank66\obj\Debug\WinBank66.ModifierCompte.resources
